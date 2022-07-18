@@ -10,4 +10,3 @@ while (temp != 0)
 }
 if (a == b) Console.WriteLine("yes");
 else Console.WriteLine("no");
-return 0;
